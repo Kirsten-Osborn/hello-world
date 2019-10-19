@@ -1,2 +1,3 @@
 # hello-world
-Github demo repo #hacktoberfest
+
+Learning GitHub and Git at Manchester Hacktoberfest with Rachael Ainsworth from @herplusdatamcr
